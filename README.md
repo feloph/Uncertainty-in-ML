@@ -1,1 +1,1 @@
-# Uncertainty-in-ML
+This project investigated how uncertainty is quantified in Machine Learning models in comparism with the traditional statistical models. Consequently, uncertainty quantification in machine learning regression and classification problems was examined with a view to providing the basis for reliability in ML model predictions.
